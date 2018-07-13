@@ -1,0 +1,35 @@
+This is a work in progress..
+Making a bunch of PS1 files to recap what i was learning and doing from January 2017 to July 2017.
+I was very active at that time.
+So what i will do is add them into folders and recap the MVA cource and follow along as i go with
+writing and learning scripting and modules.
+
+1. The Pipeline
+2. Objects
+3. The Pipeline deeper
+4. Remoting
+5. Automation
+6. Introduction to scripting and toolmaking
+
+This is what i have planned, starting July 2018 and will be due the 07 of August. 
+After this i will have a break and start working on my other projects again after the vacation :)
+So this will be a summer job for me.
+
+10.07.2018
+I have come as far as Remoting. I have not done the Pipeline deeper yet. i will write more about
+Remoting later but there are a few things i need to address.
+Remoting is used by PowerShell through a HTTPS or HTTP protocol called WS-MAN. I have noticed
+that WS-MAN uses the winrm command to establish a connection and then PowerShell commands
+can be written with icm (invoke command) the http://computername:Port (i dont remember the port
+but i will get back to it). The funny thing is as i am working for the MCST exam, technitian for
+Windows 7, i noticed that both remote desktop, remote shell and more remote stuff in Windows
+also rely on this connection through the WS-MAN protocol set up by the winrm command. So this
+is great stuff for me in the vacation to learn more about when it comes to PowerShell witch i
+can have use for in the MCST training also. Great, now i will go on reading the PowerShell,
+work on the PipeLine deeper and when i get to remoting i will be using YouTube to see what 
+correspond to the exam that i may have use for, reading the PowerShell in a month of lunches
+chapter about remoting and watching the Remote session on MVA cource. I will now make a paragraph
+about the Pipeline deeper and get back to remoting later. 
+
+10.07.2018 - The Pipeline : deeper . DONE!
+12.07.2018 - Remoting (Almost done!), Read the MOnth of Lunches!

@@ -1,0 +1,17 @@
+This is v.0.0.1 of the recap i am making for repeating some of the stuff i was into 1 year ago.
+The jul_recap2017 was started on 07.07.2018 and is intended for recaping some things from when
+i was very into powershell scripting in the period from january to july in 2018.. I was very
+active at that time but i have been forgetting stuff since i have not been actively using 
+PowerShell, so this will be kind of a beginner - immidiate scripting, though i was into some
+advanced stuff also at that time.
+
+Lets see how far i get with this and maybe i will take some time doing some advanced stuff too..
+
+I will order the scripts from 01, 02, 03 and up.
+
+As mentioned above the Recap i started on was started 07.07.2018. At the time the process is half
+way done and its now 10.07.2018. 
+
+
+- Sigurd Skauvik
+	Ikt Spesialisten, Skauvik
